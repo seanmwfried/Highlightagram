@@ -1,24 +1,5 @@
 # highlightagram
 
-## Project setup
-```
-npm install
-```
+## A mix between Reddit and Instagram, geared towards game clips.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+ReadMe under construction
